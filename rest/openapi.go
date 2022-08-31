@@ -1,6 +1,7 @@
 package rest
 
 import (
+	"github.com/emicklei/go-restful/v3"
 	"net/http"
 	"os"
 
